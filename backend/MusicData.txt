@@ -1,0 +1,27 @@
+[
+  {
+    "title": "David Kushner - Daylight",
+    "tags": [
+      "working",
+      "chill"
+    ],
+    "path": ""
+  },
+  {
+    "title": "Glimpse of Us - Joji",
+    "tags": [
+      "chill",
+      "study",
+      "working"
+    ],
+    "path": ""
+  },
+  {
+    "title": "øneheart x reidenshi - Snowfall",
+    "tags": [
+      "nothing",
+      "chill"
+    ],
+    "path": ""
+  }
+]
